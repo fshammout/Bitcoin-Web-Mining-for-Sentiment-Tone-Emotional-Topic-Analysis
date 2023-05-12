@@ -1,0 +1,13 @@
+/.vscode
+/BitcoinData.csv
+/BitcoinData_CSV_V1.csv
+/BitcoinData_JSON_V1.json
+/BitcoinEmotionAnalysis.ipynb
+/BitcoinRedditData_V1.ipynb
+/BitcoinRedditData_V2.ipynb
+/BitcoinSentimentAnalysis.ipynb
+/CoinMarketCapAPI.ipynb
+/SentimentAn(noNanOr[Removed]).csv
+/SentimentAnalysis.csv
+/SentimentOverTime.csv
+/Tone Analyzer.ipynb
